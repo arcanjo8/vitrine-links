@@ -1,0 +1,61 @@
+* {
+    font-family: 'Nunito';
+}
+
+header {
+    background-color: #30b9e2;
+    text-align: center;/* alinhar o texto ao centro */
+    font-size: 20px;
+    font-weight: 400;
+    color: #5c5c5c;
+    padding: 10px;
+}
+
+main {
+    text-align: center;
+    background-color: #beb3f1;
+    height: 100vh;/* altura da tela 100% */
+}
+
+section figure img {
+    border-radius: 50%;
+    width: 144px;
+    height: 144px;
+}
+
+figure {
+    padding: 50px;
+}
+
+figcaption {
+    font-weight: 600;
+    font-size: 20px;
+    color: #5c5c5c;
+}
+
+ul {
+    margin: 0 auto;
+    width: 30%;
+}
+
+li {
+    background: #ffff;
+    box-shadow: 0px 4px 4px rgba(0,0,0,0.15);
+    border-radius: 0px 32px 0px 0px;
+    padding: 19px 0;
+    margin: 16px;
+    
+    font-weight: 600;
+    font-size: 20px;
+    color: #5c5c5c;
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    font-weight: 600;
+    font-size: 20px;
+    color: #5c5c5c;
+}
+
+/* tempo 34:14 */
